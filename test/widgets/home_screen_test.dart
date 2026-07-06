@@ -12,6 +12,12 @@ void main() {
   });
 
   testWidgets('shows all prayers and explore entries', (tester) async {
+    // Use a tall viewport so every list item is laid out at once (the lazy
+    // ListView would otherwise not build entries below the fold).
+    tester.view.physicalSize = const Size(1000, 2200);
+    tester.view.devicePixelRatio = 1.0;
+    addTearDown(tester.view.reset);
+
     await tester.pumpWidget(
       wrapForTest(overrides: overrides, child: const HomeScreen()),
     );
