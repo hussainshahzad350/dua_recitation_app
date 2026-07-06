@@ -38,7 +38,7 @@ abstract final class AppTheme {
         scrolledUnderElevation: 1,
         centerTitle: true,
       ),
-      cardTheme: CardTheme(
+      cardTheme: CardThemeData(
         elevation: 0,
         margin: EdgeInsets.zero,
         color: scheme.surfaceContainerLow,

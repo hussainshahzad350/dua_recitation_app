@@ -198,7 +198,7 @@ class _ActionRow extends ConsumerWidget {
       ..writeln(
           '— ${dua.reference.hadithCollection} ${dua.reference.hadithNumber} '
           '(${dua.reference.authenticity})')
-      ..writeln('${AppConstants.appName}');
+      ..writeln(AppConstants.appName);
     await Share.share(buffer.toString().trim());
   }
 }

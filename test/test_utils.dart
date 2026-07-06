@@ -1,5 +1,4 @@
 import 'dart:convert';
-import 'dart:typed_data';
 
 import 'package:audioplayers/audioplayers.dart' show PlayerState;
 import 'package:dua_companion/core/localization/app_localizations.dart';

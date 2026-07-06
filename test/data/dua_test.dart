@@ -47,7 +47,7 @@ void main() {
     });
 
     test('tolerates missing optional fields', () {
-      final Dua dua = Dua.fromJson(<String, dynamic>{
+      final Dua dua = Dua.fromJson(const <String, dynamic>{
         'id': 'x',
         'arabic': 'ا',
         'reference': <String, dynamic>{},
