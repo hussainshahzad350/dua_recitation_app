@@ -1,0 +1,17 @@
+[
+  { "id": "morning", "titleEnglish": "Morning & Evening", "titleUrdu": "صبح و شام", "icon": "sun" },
+  { "id": "forgiveness", "titleEnglish": "Forgiveness", "titleUrdu": "استغفار", "icon": "forgiveness" },
+  { "id": "protection", "titleEnglish": "Protection", "titleUrdu": "حفاظت", "icon": "shield" },
+  { "id": "anxiety", "titleEnglish": "Anxiety & Worry", "titleUrdu": "پریشانی", "icon": "heart" },
+  { "id": "hardship", "titleEnglish": "Hardship & Distress", "titleUrdu": "مشکل و تنگی", "icon": "hardship" },
+  { "id": "rizq", "titleEnglish": "Rizq & Provision", "titleUrdu": "رزق", "icon": "rizq" },
+  { "id": "debt", "titleEnglish": "Debt", "titleUrdu": "قرض", "icon": "debt" },
+  { "id": "sleep", "titleEnglish": "Before Sleeping", "titleUrdu": "سونے سے پہلے", "icon": "sleep" },
+  { "id": "waking", "titleEnglish": "Waking Up", "titleUrdu": "بیدار ہونے پر", "icon": "waking" },
+  { "id": "parents", "titleEnglish": "For Parents", "titleUrdu": "والدین کے لیے", "icon": "parents" },
+  { "id": "travel", "titleEnglish": "Travel", "titleUrdu": "سفر", "icon": "travel" },
+  { "id": "home", "titleEnglish": "Home", "titleUrdu": "گھر", "icon": "home" },
+  { "id": "mosque", "titleEnglish": "Mosque", "titleUrdu": "مسجد", "icon": "mosque" },
+  { "id": "market", "titleEnglish": "Entering Market", "titleUrdu": "بازار", "icon": "market" },
+  { "id": "food", "titleEnglish": "Food", "titleUrdu": "کھانا", "icon": "food" }
+]
