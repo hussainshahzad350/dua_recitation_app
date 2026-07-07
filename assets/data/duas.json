@@ -1,0 +1,456 @@
+[
+  {
+    "id": "post_salah_istighfar_salam",
+    "title": "Istighfar & Salam after Salah",
+    "arabic": "أَسْتَغْفِرُ اللَّهَ، أَسْتَغْفِرُ اللَّهَ، أَسْتَغْفِرُ اللَّهَ. اللَّهُمَّ أَنْتَ السَّلَامُ وَمِنْكَ السَّلَامُ، تَبَارَكْتَ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ",
+    "transliteration": "Astaghfirullah, Astaghfirullah, Astaghfirullah. Allahumma antas-salamu wa minkas-salam, tabarakta ya dhal-jalali wal-ikram.",
+    "translationEnglish": "I seek the forgiveness of Allah (three times). O Allah, You are Peace and from You comes peace. Blessed are You, O Owner of majesty and honour.",
+    "translationUrdu": "میں اللہ سے بخشش مانگتا ہوں (تین مرتبہ)۔ اے اللہ! تو سلامتی والا ہے اور تجھ ہی سے سلامتی ہے، تو بابرکت ہے، اے عظمت اور بزرگی والے۔",
+    "repeat": 3,
+    "prayers": ["fajr", "dhuhr", "asr", "maghrib", "isha"],
+    "keywords": ["istighfar", "salam", "forgiveness", "after salah", "peace"],
+    "tags": ["post-salah"],
+    "reference": {
+      "sourceBook": "Hisnul Muslim",
+      "hadithCollection": "Sahih Muslim",
+      "hadithNumber": "591",
+      "authenticity": "Sahih",
+      "fullHadith": null
+    }
+  },
+  {
+    "id": "post_salah_tahlil",
+    "title": "Tahlil after Salah",
+    "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ. اللَّهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ، وَلَا مُعْطِيَ لِمَا مَنَعْتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ",
+    "transliteration": "La ilaha illallahu wahdahu la sharika lah, lahul-mulku wa lahul-hamdu wa huwa 'ala kulli shay'in qadir. Allahumma la mani'a lima a'tayta, wa la mu'tiya lima mana'ta, wa la yanfa'u dhal-jaddi minkal-jadd.",
+    "translationEnglish": "There is none worthy of worship but Allah alone, He has no partner. His is the dominion and His is the praise, and He is able to do all things. O Allah, none can withhold what You give, and none can give what You withhold, and no wealth or majesty can benefit anyone against You.",
+    "translationUrdu": "اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں، اسی کی بادشاہی ہے اور اسی کے لیے تعریف ہے اور وہ ہر چیز پر قادر ہے۔ اے اللہ! جو تو دے اسے کوئی روکنے والا نہیں اور جو تو روکے اسے کوئی دینے والا نہیں، اور کسی صاحبِ حیثیت کو اس کی حیثیت تیرے مقابلے میں فائدہ نہیں دے سکتی۔",
+    "prayers": ["fajr", "dhuhr", "asr", "maghrib", "isha"],
+    "keywords": ["tahlil", "tawhid", "after salah", "la ilaha illallah"],
+    "tags": ["post-salah"],
+    "reference": {
+      "sourceBook": "Hisnul Muslim",
+      "hadithCollection": "Sahih al-Bukhari",
+      "hadithNumber": "844",
+      "authenticity": "Sahih",
+      "fullHadith": null
+    }
+  },
+  {
+    "id": "post_salah_tasbeeh",
+    "title": "Tasbeeh after Salah",
+    "arabic": "سُبْحَانَ اللَّهِ (٣٣) وَالْحَمْدُ لِلَّهِ (٣٣) وَاللَّهُ أَكْبَرُ (٣٣) ثُمَّ تَمَامَ الْمِائَةِ: لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+    "transliteration": "SubhanAllah (33), Alhamdulillah (33), Allahu Akbar (33), then completing one hundred: La ilaha illallahu wahdahu la sharika lah, lahul-mulku wa lahul-hamdu wa huwa 'ala kulli shay'in qadir.",
+    "translationEnglish": "Glory is to Allah (33 times), all praise is to Allah (33 times), Allah is the Most Great (33 times), and to complete one hundred: There is none worthy of worship but Allah alone, He has no partner, His is the dominion and His is the praise, and He is able to do all things.",
+    "translationUrdu": "سُبْحَانَ اللہ (٣٣ مرتبہ)، اَلْحَمْدُ لِلّٰہ (٣٣ مرتبہ)، اَللہُ اَکْبَر (٣٣ مرتبہ)، پھر سو پورا کرنے کے لیے: اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں، اسی کی بادشاہی ہے اور اسی کے لیے تعریف ہے اور وہ ہر چیز پر قادر ہے۔",
+    "repeat": 33,
+    "prayers": ["fajr", "dhuhr", "asr", "maghrib", "isha"],
+    "keywords": ["tasbeeh", "subhanallah", "alhamdulillah", "allahu akbar", "after salah"],
+    "tags": ["post-salah", "dhikr"],
+    "reference": {
+      "sourceBook": "Hisnul Muslim",
+      "hadithCollection": "Sahih Muslim",
+      "hadithNumber": "597",
+      "authenticity": "Sahih",
+      "fullHadith": null
+    }
+  },
+  {
+    "id": "post_salah_ayat_al_kursi",
+    "title": "Ayat al-Kursi after Salah",
+    "arabic": "اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ، لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ، لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ، مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ، يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ، وَلَا يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلَّا بِمَا شَاءَ، وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ، وَلَا يَئُودُهُ حِفْظُهُمَا، وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+    "transliteration": "Allahu la ilaha illa huwal-Hayyul-Qayyum, la ta'khudhuhu sinatun wa la nawm, lahu ma fis-samawati wa ma fil-ard, man dhal-ladhi yashfa'u 'indahu illa bi-idhnih, ya'lamu ma bayna aydihim wa ma khalfahum, wa la yuhituna bishay'in min 'ilmihi illa bima sha', wasi'a kursiyyuhus-samawati wal-ard, wa la ya'uduhu hifzuhuma, wa huwal-'Aliyyul-'Azim.",
+    "translationEnglish": "Allah! There is no deity except Him, the Ever-Living, the Sustainer of existence. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is before them and what will be after them, and they encompass nothing of His knowledge except what He wills. His Throne extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great.",
+    "translationUrdu": "اللہ، اس کے سوا کوئی معبود نہیں، وہ زندہ ہے، سب کو قائم رکھنے والا ہے۔ اسے نہ اونگھ آتی ہے نہ نیند۔ جو کچھ آسمانوں اور زمین میں ہے سب اسی کا ہے۔ کون ہے جو اس کی اجازت کے بغیر اس کے پاس سفارش کرے؟ وہ جانتا ہے جو ان کے آگے ہے اور جو ان کے پیچھے ہے، اور وہ اس کے علم میں سے کسی چیز کا احاطہ نہیں کر سکتے مگر جتنا وہ چاہے۔ اس کی کرسی آسمانوں اور زمین کو گھیرے ہوئے ہے، اور ان کی حفاظت اسے تھکاتی نہیں، اور وہ بلند و عظیم ہے۔",
+    "prayers": ["fajr", "dhuhr", "asr", "maghrib", "isha"],
+    "keywords": ["ayat al-kursi", "throne verse", "al-baqarah 255", "after salah", "protection"],
+    "tags": ["post-salah", "quran"],
+    "reference": {
+      "sourceBook": "Hisnul Muslim",
+      "hadithCollection": "Sunan an-Nasa'i (Amal al-Yawm wa al-Laylah)",
+      "hadithNumber": "100",
+      "authenticity": "Sahih (graded by al-Albani); text is Qur'an 2:255",
+      "fullHadith": null
+    }
+  },
+  {
+    "id": "post_salah_muadh",
+    "title": "Du'a of Mu'adh after Salah",
+    "arabic": "اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+    "transliteration": "Allahumma a'inni 'ala dhikrika wa shukrika wa husni 'ibadatik.",
+    "translationEnglish": "O Allah, help me to remember You, to thank You, and to worship You in the best manner.",
+    "translationUrdu": "اے اللہ! اپنے ذکر، اپنے شکر اور اپنی بہترین عبادت پر میری مدد فرما۔",
+    "prayers": ["fajr", "dhuhr", "asr", "maghrib", "isha"],
+    "keywords": ["muadh", "dhikr", "shukr", "worship", "after salah"],
+    "tags": ["post-salah"],
+    "reference": {
+      "sourceBook": "Hisnul Muslim",
+      "hadithCollection": "Sunan Abi Dawud",
+      "hadithNumber": "1522",
+      "authenticity": "Sahih",
+      "fullHadith": null
+    }
+  },
+  {
+    "id": "post_salah_three_quls",
+    "title": "The Three Quls after Salah",
+    "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ، اللَّهُ الصَّمَدُ، لَمْ يَلِدْ وَلَمْ يُولَدْ، وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ ۝ قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ، مِنْ شَرِّ مَا خَلَقَ، وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ، وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ، وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ ۝ قُلْ أَعُوذُ بِرَبِّ النَّاسِ، مَلِكِ النَّاسِ، إِلَهِ النَّاسِ، مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ، الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ، مِنَ الْجِنَّةِ وَالنَّاسِ",
+    "transliteration": "Surah Al-Ikhlas, Surah Al-Falaq, and Surah An-Nas. (Recited after every prayer; three times each after Fajr and Maghrib.)",
+    "translationEnglish": "Recite Surah Al-Ikhlas, Surah Al-Falaq and Surah An-Nas after each obligatory prayer (three times each after the Fajr and Maghrib prayers).",
+    "translationUrdu": "ہر فرض نماز کے بعد سورۃ الاخلاص، سورۃ الفلق اور سورۃ الناس پڑھیں (فجر اور مغرب کے بعد تین تین مرتبہ)۔",
+    "prayers": ["fajr", "dhuhr", "asr", "maghrib", "isha"],
+    "keywords": ["three quls", "ikhlas", "falaq", "nas", "protection", "after salah"],
+    "tags": ["post-salah", "quran", "protection"],
+    "reference": {
+      "sourceBook": "Hisnul Muslim",
+      "hadithCollection": "Sunan Abi Dawud",
+      "hadithNumber": "1523",
+      "authenticity": "Sahih",
+      "fullHadith": null
+    }
+  },
+  {
+    "id": "forgiveness_sayyid_al_istighfar",
+    "title": "Sayyid al-Istighfar (Chief of Seeking Forgiveness)",
+    "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+    "transliteration": "Allahumma anta Rabbi la ilaha illa anta, khalaqtani wa ana 'abduk, wa ana 'ala 'ahdika wa wa'dika mastata't, a'udhu bika min sharri ma sana't, abu'u laka bini'matika 'alayya, wa abu'u bidhanbi faghfir li fa innahu la yaghfirudh-dhunuba illa anta.",
+    "translationEnglish": "O Allah, You are my Lord, there is none worthy of worship but You. You created me and I am Your servant, and I abide by Your covenant and promise as best I can. I seek refuge in You from the evil I have done. I acknowledge Your favour upon me, and I acknowledge my sin, so forgive me, for none forgives sins but You.",
+    "translationUrdu": "اے اللہ! تو میرا رب ہے، تیرے سوا کوئی معبود نہیں، تو نے مجھے پیدا کیا اور میں تیرا بندہ ہوں، اور میں اپنی طاقت کے مطابق تیرے عہد و وعدے پر قائم ہوں۔ میں اپنے کیے کے شر سے تیری پناہ چاہتا ہوں، میں تیری نعمت کا اقرار کرتا ہوں جو مجھ پر ہے اور اپنے گناہ کا اقرار کرتا ہوں، پس مجھے بخش دے، کیونکہ تیرے سوا گناہوں کو کوئی نہیں بخشتا۔",
+    "category": "forgiveness",
+    "prayers": [],
+    "keywords": ["sayyid al-istighfar", "forgiveness", "morning", "evening"],
+    "tags": ["forgiveness", "morning", "evening"],
+    "reference": {
+      "sourceBook": "Hisnul Muslim",
+      "hadithCollection": "Sahih al-Bukhari",
+      "hadithNumber": "6306",
+      "authenticity": "Sahih",
+      "fullHadith": null
+    }
+  },
+  {
+    "id": "protection_kalimat_tammat",
+    "title": "Seeking Refuge in Allah's Perfect Words",
+    "arabic": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+    "transliteration": "A'udhu bikalimatillahit-tammati min sharri ma khalaq.",
+    "translationEnglish": "I seek refuge in the perfect words of Allah from the evil of what He has created.",
+    "translationUrdu": "میں اللہ کے کامل کلمات کے ذریعے اس کی مخلوق کے شر سے پناہ مانگتا ہوں۔",
+    "repeat": 3,
+    "category": "protection",
+    "prayers": [],
+    "keywords": ["protection", "refuge", "perfect words", "evil"],
+    "tags": ["protection", "evening"],
+    "reference": {
+      "sourceBook": "Hisnul Muslim",
+      "hadithCollection": "Sahih Muslim",
+      "hadithNumber": "2708",
+      "authenticity": "Sahih",
+      "fullHadith": null
+    }
+  },
+  {
+    "id": "anxiety_hammi_hazan",
+    "title": "Refuge from Anxiety & Grief",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَالْعَجْزِ وَالْكَسَلِ، وَالْبُخْلِ وَالْجُبْنِ، وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ",
+    "transliteration": "Allahumma inni a'udhu bika minal-hammi wal-hazan, wal-'ajzi wal-kasal, wal-bukhli wal-jubn, wa dala'id-dayni wa ghalabatir-rijal.",
+    "translationEnglish": "O Allah, I seek refuge in You from anxiety and grief, from weakness and laziness, from miserliness and cowardice, from being overcome by debt and overpowered by men.",
+    "translationUrdu": "اے اللہ! میں تیری پناہ چاہتا ہوں فکر و غم سے، عاجزی و سستی سے، بخل و بزدلی سے، اور قرض کے بوجھ اور لوگوں کے غلبے سے۔",
+    "category": "anxiety",
+    "prayers": [],
+    "keywords": ["anxiety", "worry", "grief", "sadness", "depression", "debt"],
+    "tags": ["anxiety", "hardship"],
+    "reference": {
+      "sourceBook": "Hisnul Muslim",
+      "hadithCollection": "Sahih al-Bukhari",
+      "hadithNumber": "6369",
+      "authenticity": "Sahih",
+      "fullHadith": null
+    }
+  },
+  {
+    "id": "hardship_dua_yunus",
+    "title": "Du'a of Yunus (in Distress)",
+    "arabic": "لَا إِلَهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
+    "transliteration": "La ilaha illa anta subhanaka inni kuntu minaz-zalimin.",
+    "translationEnglish": "There is none worthy of worship but You. Glory is to You. Indeed, I have been among the wrongdoers.",
+    "translationUrdu": "تیرے سوا کوئی معبود نہیں، تو پاک ہے، بے شک میں ہی ظالموں میں سے تھا۔",
+    "category": "hardship",
+    "prayers": [],
+    "keywords": ["yunus", "distress", "hardship", "dhun-nun", "relief"],
+    "tags": ["hardship", "anxiety"],
+    "reference": {
+      "sourceBook": "Hisnul Muslim",
+      "hadithCollection": "Jami' at-Tirmidhi",
+      "hadithNumber": "3505",
+      "authenticity": "Sahih; text is Qur'an 21:87",
+      "fullHadith": null
+    }
+  },
+  {
+    "id": "hardship_distress",
+    "title": "Du'a at Times of Distress",
+    "arabic": "لَا إِلَهَ إِلَّا اللَّهُ الْعَظِيمُ الْحَلِيمُ، لَا إِلَهَ إِلَّا اللَّهُ رَبُّ الْعَرْشِ الْعَظِيمِ، لَا إِلَهَ إِلَّا اللَّهُ رَبُّ السَّمَاوَاتِ وَرَبُّ الْأَرْضِ وَرَبُّ الْعَرْشِ الْكَرِيمِ",
+    "transliteration": "La ilaha illallahul-'Azimul-Halim, la ilaha illallahu Rabbul-'Arshil-'Azim, la ilaha illallahu Rabbus-samawati wa Rabbul-ardi wa Rabbul-'Arshil-Karim.",
+    "translationEnglish": "There is none worthy of worship but Allah, the Mighty, the Forbearing. There is none worthy of worship but Allah, Lord of the Magnificent Throne. There is none worthy of worship but Allah, Lord of the heavens, Lord of the earth, and Lord of the Noble Throne.",
+    "translationUrdu": "اللہ کے سوا کوئی معبود نہیں جو عظیم و بردبار ہے، اللہ کے سوا کوئی معبود نہیں جو عرشِ عظیم کا رب ہے، اللہ کے سوا کوئی معبود نہیں جو آسمانوں کا رب، زمین کا رب اور عرشِ کریم کا رب ہے۔",
+    "category": "hardship",
+    "prayers": [],
+    "keywords": ["distress", "hardship", "difficulty", "grief"],
+    "tags": ["hardship"],
+    "reference": {
+      "sourceBook": "Hisnul Muslim",
+      "hadithCollection": "Sahih al-Bukhari",
+      "hadithNumber": "6346",
+      "authenticity": "Sahih",
+      "fullHadith": null
+    }
+  },
+  {
+    "id": "rizq_kifayah",
+    "title": "For Lawful Provision & Contentment",
+    "arabic": "اللَّهُمَّ اكْفِنِي بِحَلَالِكَ عَنْ حَرَامِكَ، وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+    "transliteration": "Allahumma-kfini bihalalika 'an haramik, wa aghnini bifadlika 'amman siwak.",
+    "translationEnglish": "O Allah, suffice me with what You have made lawful against what You have made unlawful, and make me independent of all others besides You by Your grace.",
+    "translationUrdu": "اے اللہ! اپنی حلال کردہ چیزوں کے ذریعے مجھے حرام سے بے نیاز کر دے، اور اپنے فضل سے مجھے اپنے سوا سب سے بے پروا کر دے۔",
+    "category": "rizq",
+    "prayers": [],
+    "keywords": ["rizq", "provision", "sustenance", "halal", "job", "wealth", "debt"],
+    "tags": ["rizq", "debt"],
+    "reference": {
+      "sourceBook": "Hisnul Muslim",
+      "hadithCollection": "Jami' at-Tirmidhi",
+      "hadithNumber": "3563",
+      "authenticity": "Hasan",
+      "fullHadith": null
+    }
+  },
+  {
+    "id": "debt_mathram_maghram",
+    "title": "Refuge from Sin & Debt",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْمَأْثَمِ وَالْمَغْرَمِ",
+    "transliteration": "Allahumma inni a'udhu bika minal-ma'thami wal-maghram.",
+    "translationEnglish": "O Allah, I seek refuge in You from sin and from debt.",
+    "translationUrdu": "اے اللہ! میں گناہ اور قرض سے تیری پناہ چاہتا ہوں۔",
+    "category": "debt",
+    "prayers": [],
+    "keywords": ["debt", "sin", "loan", "refuge"],
+    "tags": ["debt"],
+    "reference": {
+      "sourceBook": "Hisnul Muslim",
+      "hadithCollection": "Sahih al-Bukhari",
+      "hadithNumber": "832",
+      "authenticity": "Sahih",
+      "fullHadith": null
+    }
+  },
+  {
+    "id": "sleep_bismika",
+    "title": "Before Sleeping",
+    "arabic": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+    "transliteration": "Bismika Allahumma amutu wa ahya.",
+    "translationEnglish": "In Your name, O Allah, I die and I live.",
+    "translationUrdu": "اے اللہ! تیرے ہی نام کے ساتھ میں مرتا اور جیتا ہوں۔",
+    "category": "sleep",
+    "prayers": [],
+    "keywords": ["sleep", "night", "bed", "rest"],
+    "tags": ["sleep"],
+    "reference": {
+      "sourceBook": "Hisnul Muslim",
+      "hadithCollection": "Sahih al-Bukhari",
+      "hadithNumber": "6324",
+      "authenticity": "Sahih",
+      "fullHadith": null
+    }
+  },
+  {
+    "id": "waking_alhamdulillah",
+    "title": "Upon Waking Up",
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+    "transliteration": "Alhamdulillahilladhi ahyana ba'da ma amatana wa ilayhin-nushur.",
+    "translationEnglish": "All praise is to Allah who gave us life after having taken it from us, and to Him is the resurrection.",
+    "translationUrdu": "تمام تعریفیں اللہ کے لیے ہیں جس نے ہمیں موت (نیند) کے بعد زندگی بخشی، اور اسی کی طرف اٹھ کر جانا ہے۔",
+    "category": "waking",
+    "prayers": [],
+    "keywords": ["waking", "morning", "sleep", "gratitude"],
+    "tags": ["waking"],
+    "reference": {
+      "sourceBook": "Hisnul Muslim",
+      "hadithCollection": "Sahih al-Bukhari",
+      "hadithNumber": "6324",
+      "authenticity": "Sahih",
+      "fullHadith": null
+    }
+  },
+  {
+    "id": "morning_bismillah_la_yadurru",
+    "title": "Morning & Evening Protection",
+    "arabic": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+    "transliteration": "Bismillahilladhi la yadurru ma'asmihi shay'un fil-ardi wa la fis-sama'i wa huwas-Sami'ul-'Alim.",
+    "translationEnglish": "In the name of Allah, with whose name nothing on earth or in the heaven can cause harm, and He is the All-Hearing, the All-Knowing.",
+    "translationUrdu": "اللہ کے نام کے ساتھ، جس کے نام کے ہوتے ہوئے زمین اور آسمان کی کوئی چیز نقصان نہیں پہنچا سکتی، اور وہ سب کچھ سننے اور جاننے والا ہے۔",
+    "repeat": 3,
+    "category": "morning",
+    "prayers": [],
+    "keywords": ["morning", "evening", "protection", "harm"],
+    "tags": ["morning", "evening", "protection"],
+    "reference": {
+      "sourceBook": "Hisnul Muslim",
+      "hadithCollection": "Sunan Abi Dawud",
+      "hadithNumber": "5088",
+      "authenticity": "Sahih",
+      "fullHadith": null
+    }
+  },
+  {
+    "id": "parents_rahmah",
+    "title": "For One's Parents",
+    "arabic": "رَبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا",
+    "transliteration": "Rabbir hamhuma kama rabbayani saghira.",
+    "translationEnglish": "My Lord, have mercy upon them as they brought me up when I was small.",
+    "translationUrdu": "اے میرے رب! ان دونوں پر رحم فرما جیسا انہوں نے بچپن میں میری پرورش کی۔",
+    "category": "parents",
+    "prayers": [],
+    "keywords": ["parents", "mother", "father", "mercy"],
+    "tags": ["parents", "quran"],
+    "reference": {
+      "sourceBook": "Al-Qur'an",
+      "hadithCollection": "Surah Al-Isra",
+      "hadithNumber": "17:24",
+      "authenticity": "Qur'an",
+      "fullHadith": null
+    }
+  },
+  {
+    "id": "travel_subhan",
+    "title": "When Setting Out to Travel",
+    "arabic": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ، وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ",
+    "transliteration": "Subhanalladhi sakhkhara lana hadha wa ma kunna lahu muqrinin, wa inna ila Rabbina lamunqalibun.",
+    "translationEnglish": "Glory is to Him who has subjected this to us, and we could never have accomplished it. And indeed, to our Lord we will surely return.",
+    "translationUrdu": "پاک ہے وہ ذات جس نے اس (سواری) کو ہمارے تابع کر دیا، حالانکہ ہم اسے قابو میں لانے والے نہ تھے، اور بے شک ہم اپنے رب ہی کی طرف لوٹنے والے ہیں۔",
+    "category": "travel",
+    "prayers": [],
+    "keywords": ["travel", "journey", "vehicle", "safety"],
+    "tags": ["travel", "quran"],
+    "reference": {
+      "sourceBook": "Hisnul Muslim",
+      "hadithCollection": "Sahih Muslim",
+      "hadithNumber": "1342",
+      "authenticity": "Sahih",
+      "fullHadith": null
+    }
+  },
+  {
+    "id": "home_leaving",
+    "title": "When Leaving the Home",
+    "arabic": "بِسْمِ اللَّهِ، تَوَكَّلْتُ عَلَى اللَّهِ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+    "transliteration": "Bismillah, tawakkaltu 'alallah, wa la hawla wa la quwwata illa billah.",
+    "translationEnglish": "In the name of Allah, I place my trust in Allah, and there is no might nor power except with Allah.",
+    "translationUrdu": "اللہ کے نام کے ساتھ، میں نے اللہ پر بھروسہ کیا، اور اللہ کی مدد کے بغیر نہ کوئی طاقت ہے نہ قوت۔",
+    "category": "home",
+    "prayers": [],
+    "keywords": ["home", "leaving", "house", "trust", "tawakkul"],
+    "tags": ["home"],
+    "reference": {
+      "sourceBook": "Hisnul Muslim",
+      "hadithCollection": "Sunan Abi Dawud",
+      "hadithNumber": "5095",
+      "authenticity": "Sahih",
+      "fullHadith": null
+    }
+  },
+  {
+    "id": "mosque_entering",
+    "title": "When Entering the Mosque",
+    "arabic": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+    "transliteration": "Allahumma-ftah li abwaba rahmatik.",
+    "translationEnglish": "O Allah, open for me the doors of Your mercy.",
+    "translationUrdu": "اے اللہ! میرے لیے اپنی رحمت کے دروازے کھول دے۔",
+    "category": "mosque",
+    "prayers": [],
+    "keywords": ["mosque", "masjid", "entering", "mercy"],
+    "tags": ["mosque"],
+    "reference": {
+      "sourceBook": "Hisnul Muslim",
+      "hadithCollection": "Sahih Muslim",
+      "hadithNumber": "713",
+      "authenticity": "Sahih",
+      "fullHadith": null
+    }
+  },
+  {
+    "id": "mosque_leaving",
+    "title": "When Leaving the Mosque",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+    "transliteration": "Allahumma inni as'aluka min fadlik.",
+    "translationEnglish": "O Allah, I ask You from Your bounty.",
+    "translationUrdu": "اے اللہ! میں تجھ سے تیرا فضل مانگتا ہوں۔",
+    "category": "mosque",
+    "prayers": [],
+    "keywords": ["mosque", "masjid", "leaving", "bounty"],
+    "tags": ["mosque"],
+    "reference": {
+      "sourceBook": "Hisnul Muslim",
+      "hadithCollection": "Sahih Muslim",
+      "hadithNumber": "713",
+      "authenticity": "Sahih",
+      "fullHadith": null
+    }
+  },
+  {
+    "id": "market_entering",
+    "title": "When Entering the Market",
+    "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، يُحْيِي وَيُمِيتُ وَهُوَ حَيٌّ لَا يَمُوتُ، بِيَدِهِ الْخَيْرُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+    "transliteration": "La ilaha illallahu wahdahu la sharika lah, lahul-mulku wa lahul-hamd, yuhyi wa yumit, wa huwa hayyun la yamut, biyadihil-khayr, wa huwa 'ala kulli shay'in qadir.",
+    "translationEnglish": "There is none worthy of worship but Allah alone, He has no partner. His is the dominion and His is the praise. He gives life and causes death, and He is the Ever-Living who does not die. In His hand is all good, and He is able to do all things.",
+    "translationUrdu": "اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں، اسی کی بادشاہی ہے اور اسی کے لیے تعریف ہے، وہ زندگی دیتا اور موت دیتا ہے، اور وہ خود زندہ ہے، اسے موت نہیں آتی، ہر بھلائی اسی کے ہاتھ میں ہے اور وہ ہر چیز پر قادر ہے۔",
+    "category": "market",
+    "prayers": [],
+    "keywords": ["market", "shopping", "entering", "dhikr"],
+    "tags": ["market"],
+    "reference": {
+      "sourceBook": "Hisnul Muslim",
+      "hadithCollection": "Jami' at-Tirmidhi",
+      "hadithNumber": "3428",
+      "authenticity": "Hasan",
+      "fullHadith": null
+    }
+  },
+  {
+    "id": "food_before",
+    "title": "Before Eating",
+    "arabic": "بِسْمِ اللَّهِ، فَإِنْ نَسِيَ فِي أَوَّلِهِ فَلْيَقُلْ: بِسْمِ اللَّهِ أَوَّلَهُ وَآخِرَهُ",
+    "transliteration": "Bismillah. (If one forgets to say it at the start: Bismillahi awwalahu wa akhirahu.)",
+    "translationEnglish": "In the name of Allah. (If one forgets to say it at the beginning, say: In the name of Allah at its beginning and its end.)",
+    "translationUrdu": "اللہ کے نام سے۔ (اگر شروع میں بھول جائے تو کہے: بِسْمِ اللہِ اَوَّلَہُ وَآخِرَہُ)۔",
+    "category": "food",
+    "prayers": [],
+    "keywords": ["food", "eating", "meal", "bismillah"],
+    "tags": ["food"],
+    "reference": {
+      "sourceBook": "Hisnul Muslim",
+      "hadithCollection": "Sunan Abi Dawud",
+      "hadithNumber": "3767",
+      "authenticity": "Sahih",
+      "fullHadith": null
+    }
+  },
+  {
+    "id": "food_after",
+    "title": "After Eating",
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنِي هَذَا وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ",
+    "transliteration": "Alhamdulillahilladhi at'amani hadha wa razaqanihi min ghayri hawlin minni wa la quwwah.",
+    "translationEnglish": "All praise is to Allah who fed me this and provided it for me without any might or power on my part.",
+    "translationUrdu": "تمام تعریفیں اللہ کے لیے ہیں جس نے مجھے یہ کھلایا اور میری کسی طاقت و قوت کے بغیر مجھے یہ عطا کیا۔",
+    "category": "food",
+    "prayers": [],
+    "keywords": ["food", "eating", "meal", "gratitude", "after"],
+    "tags": ["food"],
+    "reference": {
+      "sourceBook": "Hisnul Muslim",
+      "hadithCollection": "Sunan Abi Dawud",
+      "hadithNumber": "4023",
+      "authenticity": "Hasan",
+      "fullHadith": null
+    }
+  }
+]

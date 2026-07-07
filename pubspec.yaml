@@ -1,0 +1,44 @@
+name: dua_companion
+description: >-
+  Dua Companion — a lightweight, offline-first app to recite authentic duas
+  after Salah without needing to memorize them.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.5.0 <4.0.0"
+  flutter: ">=3.24.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # State management
+  flutter_riverpod: ^2.5.1
+
+  # Local persistence for favorites / language / theme
+  shared_preferences: ^2.2.3
+
+  # Offline audio playback of recitations
+  audioplayers: ^6.0.0
+
+  # Native share sheet for sharing a dua
+  share_plus: ^9.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/data/duas.json
+    - assets/data/categories.json
+    # Recitation audio is loaded by convention from assets/audio/{id}.mp3.
+    # The directory is bundled so real files can be dropped in later without
+    # touching code. It currently contains only a placeholder .gitkeep.
+    - assets/audio/
